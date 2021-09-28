@@ -1,0 +1,10 @@
+C:\Users\37533\Desktop\OOP\labs\OOP_Lab2\OOP_Lab2\bin\Debug\OOP_Lab2.exe.config
+C:\Users\37533\Desktop\OOP\labs\OOP_Lab2\OOP_Lab2\bin\Debug\OOP_Lab2.exe
+C:\Users\37533\Desktop\OOP\labs\OOP_Lab2\OOP_Lab2\bin\Debug\OOP_Lab2.pdb
+C:\Users\37533\Desktop\OOP\labs\OOP_Lab2\OOP_Lab2\obj\Debug\OOP_Lab2.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\OOP\labs\OOP_Lab2\OOP_Lab2\obj\Debug\OOP_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\OOP\labs\OOP_Lab2\OOP_Lab2\obj\Debug\OOP_Lab2.exe
+C:\Users\37533\Desktop\OOP\labs\OOP_Lab2\OOP_Lab2\obj\Debug\OOP_Lab2.pdb
+C:\Users\37533\Desktop\OOP\labs\OOP_Lab2\OOP_Lab2\bin\Debug\System.ValueTuple.dll
+C:\Users\37533\Desktop\OOP\labs\OOP_Lab2\OOP_Lab2\bin\Debug\System.ValueTuple.xml
+C:\Users\37533\Desktop\OOP\labs\OOP_Lab2\OOP_Lab2\obj\Debug\OOP_Lab2.csproj.CopyComplete
